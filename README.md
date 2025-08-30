@@ -1,4 +1,4 @@
-# 🛒 Análisis de Ventas Online
+# Análisis de Ventas Online
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellowgreen?logo=pandas&logoColor=white)  
@@ -6,12 +6,12 @@
 ![License](https://img.shields.io/badge/License-MIT-green)  
 ![Status](https://img.shields.io/badge/Status-Completado-brightgreen)  
 
-Proyecto ficticio de análisis de ventas de una tienda online.  
+Proyecto de análisis de ventas de una tienda online.  
 El objetivo es explorar el comportamiento de las ventas, identificar productos más vendidos y analizar tendencias mensuales.  
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Fuente**: Datos inventados para fines educativos.  
 - **Variables**:
   - `fecha`: día de la compra  
@@ -23,14 +23,14 @@ El objetivo es explorar el comportamiento de las ventas, identificar productos m
 
 ---
 
-## 📈 Resultados
+## Resultados
 Ejemplo de gráfico generado:  
 
 ![Ventas Mensuales](reports/ventas_mensuales.png)  
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
@@ -38,7 +38,7 @@ Ejemplo de gráfico generado:
 
 ---
 
-## 🛠️ Cómo usar este proyecto
+## Cómo usar este proyecto
 ```bash
 git clone https://github.com/usuario/ventas-online.git
 cd ventas-online
@@ -48,5 +48,5 @@ jupyter notebook notebooks/analisis_ventas.ipynb
 
 ---
 
-## 📜 Licencia
+## Licencia
 Este proyecto se distribuye bajo licencia **MIT**.
